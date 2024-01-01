@@ -1,0 +1,65 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+body {
+    background-color: black;
+}
+
+header {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: normal;
+    font-size: 50px;
+    color: white;
+}
+
+.header2 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: normal;
+    font-size: 50px;
+    color: white;
+}
+
+#divlink {
+    color: aquamarine;
+    font-size: 16px;
+    padding-top: 10px;
+    
+}
+a {
+    color: aquamarine;
+}
+
+video {
+    display: block;
+    margin: 0 auto;
+}
+
+#header {
+    font-weight: 300;
+    font-size: 42px;
+    margin: 0 auto;
+    color: white;
+}
+
+#paragraph {
+    font-size: 21px;
+    color: gray;
+}
+
+#camping {
+    max-width: 99%;
+    max-height: 99%;
+    margin: 0 auto;
+}
+
+#phone {
+    margin: 0 auto;
+    padding-top: 20px;
+}
+
+#copyright {
+    text-align: right;
+    color: grey;
+}
